@@ -4,7 +4,7 @@ Esse foi um portifólio criado para um trabalho da faculdade, então não se tra
 ## Acesso
 Para se ter acesso ao portifólio, clique aqui no link do Replit [https://replit.com/@pedrosouza15171/JSONServer].
 
-Para melhor visualização faça um fork.
+Faça um fork.
 
 Aperte em "run".
 
