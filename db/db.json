@@ -1,0 +1,93 @@
+{
+  "repositorios":[
+    {
+      "id": 1,
+      "nome": "PetLife",
+      "url_img": "assets/img/petlife.jpg",
+      "descricao": "Site destinado a Pet-Shops onde se pode ter toda a descrição do que fazem, contato, localização e o que mais desejar. Um site simples mas elegante, sem exageros dando maior poder de leitura aos visitantes.",
+      "html_url": "https://pedrohps20.github.io/PetLife/" ,
+      "linguagens": "HTML, CSS e JavaScript",
+      "data_criacao": "10 de janeiro de 2024"
+    },
+    {
+      "id": 2,
+      "nome": "Apple_Brasil",
+      "url_img":"assets/img/apple-brasil.png",
+      "descricao": "Um site baseado no Apple Brasil",
+      "html_url": "https://github.com/Pedrohps20/Site-baseado-na-Apple-Brasil" ,
+      "linguagens": "HTML, CSS e JavaScript",
+      "data_criacao": "10 de janeiro de 2024"
+    },
+    {
+      "id": 3,
+      "nome": "",
+      "url_img":"",
+      "descricao": "",
+      "html_url": " " ,
+      "linguagens": "HTML, CSS e JavaScript",
+      "data_criacao": "10 de janeiro de 2024"
+    }
+  ],
+
+  "conteudos":[
+    {
+      "id": 1,
+      "titulo" : "Jogo do Tigrinho: aprenda a bloquear solicitações de amizade no Instagram",
+      "descricao": "Veja como bloquear e evitar solicitações de amizade de perfis falsos do 'Jogo do Tigrinho', que tira os usuários do Instagram do sério",
+      "url_imagem": "https://img.odcdn.com.br/wp-content/uploads/2024/06/Jogo-do-Tigrinho-715x402-1-1920x1080.png",
+      "url_noticia": "https://olhardigital.com.br/2024/06/22/dicas-e-tutoriais/jogo-do-tigrinho-aprenda-a-bloquear-solicitacoes-de-amizade-no-instagram/"
+    },
+    {
+      "id": 2,
+      "titulo" : "Briga de gigantes: Microsoft volta a ser empresa mais valiosa do mundo",
+      "descricao": "Ações da Nvidia caíram, dando espaço para o retorno da líder do ranking",
+      "url_imagem": "https://classic.exame.com/wp-content/uploads/2019/07/2019-07-22t151610z_1_lynxnpef6l1a1_rtroptp_3_tech-microsoft.jpg?quality=70&strip=info&w=800",
+      "url_noticia": "https://olhardigital.com.br/2024/06/21/pro/briga-de-gigantes-microsoft-volta-a-ser-empresa-mais-valiosa-do-mundo/"
+    },
+    {
+      "id": 3,
+      "titulo" : "Modo desenvolvedor do celular: o que é, como ativar e funções úteis",
+      "descricao": "O modo desenvolvedor presente em celulares Android tem diversos recursos interessantes; entenda o que ele é e conheça algumas funções úteis para ativar no seu aparelho",
+      "url_imagem": "https://s2-techtudo.glbimg.com/GNvFCeAukwF4G24Y5x5fsyJTsNo=/0x0:4000x2664/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/2/J/1F34cvQlOdEjyw4zgHOQ/techtudo-82-m.jpg",
+      "url_noticia": "https://www.techtudo.com.br/listas/2024/06/modo-desenvolvedor-do-celular-o-que-e-como-ativar-e-funcoes-uteis-edmobile.ghtml"
+    },
+    {
+      "id": 4,
+      "titulo" : "Chega ao Brasil o processador Intel Core Ultra, iniciando uma nova era de PCs com inteligência artificial",
+      "descricao": "Produtos que representam a maior mudança arquitetônica da Intel em 40 anos já podem ser testados e adquiridos por aqui",
+      "url_imagem": "https://s2-techtudo.glbimg.com/EOZXgt_YFfSd8-mPFrAjHOX-IQY=/0x0:900x600/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2024/n/j/YrB6NLQDKYg6SM752JSg/intel-destaque.jpg",
+      "url_noticia": "https://www.techtudo.com.br/noticias/2024/04/chega-ao-brasil-o-processador-intel-core-ultra-iniciando-uma-nova-era-de-pcs-com-inteligencia-artificial.ghtml?utm_source=techtudo&utm_medium=chamada&utm_campaign=intel"
+    },
+    {
+      "id": 5,
+      "titulo" : "Huawei diz ter feito grandes avanços em sistemas operacionais e IA",
+      "descricao": "Empresa chinesa afirma ter feito em 10 anos o que concorrentes dos EUA e Europa levaram 30",
+      "url_imagem": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2024binary_LYNXMPEK5K0LM-FILEDIMAGE.jpg?w=1220&h=674&crop=1",
+      "url_noticia": "https://www.cnnbrasil.com.br/tecnologia/huawei-diz-ter-feito/"
+    }
+  ],
+  
+  "colegas":[
+    {
+      "id": 1,
+      "nome": "Isabela",
+      "descricao": "🧑‍💻 Sou um entusiasta da tecnologia apaixonada por desenvolvimento de software e solução de problemas criativos.",
+      "html_url": "https://github.com/belaa01" ,
+      "url_imagem": "https://avatars.githubusercontent.com/u/130412207?v=4"
+    },
+    {
+      "id": 2,
+      "nome": "Nathalia",
+      "descricao": "",
+      "html_url": "https://github.com/NathaliaCarneiro" ,
+      "url_imagem": "https://avatars.githubusercontent.com/u/167208874?v=4"
+    },
+    {
+      "id": 3,
+      "nome": "Jessyca",
+      "descricao": "Sou uma jovem estudante da área de informática que adora e busca sempre se atualizar na área e adquirir conhecimentos. :)",
+      "html_url": "https://github.com/Jessyca-Leao" ,
+      "url_imagem": "https://avatars.githubusercontent.com/u/138216280?v=4"
+    }
+  ]
+}

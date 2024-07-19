@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0 2%;
+    font-family: "Poppins", sans-serif;
+}
+
+hr{
+    color: #353535;
+    background-color: #353535;
+    padding: 2px;
+    justify-content: center;
+}
+
+header{
+    height: 60px;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 6%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+header a{
+    text-decoration: none;
+    color: black;
+}
+
+#nome{
+    background-color: #e2e2e2;
+    border: solid 10px;
+    border-color: #e2e2e2;
+    border-radius: 5px;
+    text-align: center;
+    padding: 4px 25px;
+    
+}
+section a{
+    text-decoration: none;
+    color: black;
+}
+
+.perfil{
+    margin-bottom: 5%;
+}
+
+.perfil img {
+    float: left;
+    display: block;
+    flex-wrap: wrap;
+    margin-right: 10%;
+}
+
+.perfil strong{
+    text-align: justify;
+}
+
+#nomecomp{
+    color: #48d2ee;
+}
+
+.perfil p{
+    text-align: justify;
+    margin-left:27%;
+}
+
+#carouselExampleCaptions{
+    margin: auto;
+    background-color: #71d8ed52;
+}
+
+.repositorio{
+    margin-bottom: 5%;
+}
+
+.repositorio a{
+    text-decoration: none;
+}
+
+.conteudo_sugerido{
+    margin-bottom: 5%;
+}
+
+.colegas{
+    margin-bottom: 5%;
+}
